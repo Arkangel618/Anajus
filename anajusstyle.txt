@@ -1,0 +1,39 @@
+/* Estilos, cariño... */
+
+.anajurenameinfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 30px 0;
+}
+
+.anajurenameinfo > .img {
+    width: 100%;
+    max-width: 150px;
+    margin-right: 30px;
+}
+
+.anajurenameinfo > .img img {
+    width: 100%;
+}
+
+.anajurenameinfo > .text {
+    width: 100%;
+    max-width: calc(100% - 180px);
+}
+
+.anajurenameinfo h2 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.anajurenameinfo p {
+    margin-top: 0;
+    font-size: 16px;
+}
+
+.anajurenameinfo a {
+    color: violet !important;
+    font-weight: 700;
+}
