@@ -104,7 +104,7 @@ function addInfoToResults(busquedas, info) {
 // Añadir estilos
 
 function addCustomCSS() {
-  fetch(chrome.runtime.getURL('anajusstyle.txt'))
+  fetch('https://raw.githubusercontent.com/Arkangel618/Anajus/master/anajusstyle.txt')
     .then(response => response.text())
     .then(css => {
       const styleEl = document.createElement('style');
@@ -118,7 +118,7 @@ function addCustomCSS() {
 addCustomCSS();
 
 
-fetch(chrome.runtime.getURL('anajuseastereggsfr.txt'))
+fetch('https://raw.githubusercontent.com/Arkangel618/Anajus/master/anajuseastereggsfr.txt')
   .then(response => response.text())
   .then(text => {
     const lines = text.split('\n');
