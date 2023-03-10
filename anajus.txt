@@ -10,7 +10,7 @@ Itziar Castro / ITZIAR CASTRO / itziar castro | Anajú Grande / Anajú Gigante /
 itziarcastro | anajugigante
 
 >> JEDET
-lajedet / AnajuPequeña
+lajedet | AnajuPequeña
 Jedet / La Jedet / JEDET / LA JEDET / Carmen Jedet | Anajú Pequeña / Anajú Txiquia / Anajú Petita
 
 >> CONCHI NARANJA
@@ -391,3 +391,6 @@ Isabel Díaz Ayuso / Ayuso | Anajú ******* de 8000 ancianos
 
 >> ESPERANZA AGUIRRE
 Esperanza Aguirre | Anajú superviviente / Anajú Helicóptero / Anajú 7 vidas
+
+>> JOSE LUIS MORENO
+Jose Luis Moreno | Anajú JLo / Anajú Si Quieres Fama Enséñame la Rama
